@@ -1,6 +1,3 @@
-#Student ID ->
-#F213667
-
 import databse
 from tkinter import *
 
