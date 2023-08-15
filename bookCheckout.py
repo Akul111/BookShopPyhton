@@ -1,5 +1,3 @@
-#Student ID -> F213667
-
 from datetime import date
 import databse
 from tkinter import *
