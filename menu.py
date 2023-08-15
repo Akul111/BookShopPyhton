@@ -1,5 +1,3 @@
-#Student ID -> F213667
-
 import bookSelect
 from bookSearch import book_search
 import databse
