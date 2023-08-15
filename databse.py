@@ -1,5 +1,3 @@
-#Student ID -> F213667
-
 from tkinter import *
 import bookCheckout
 
