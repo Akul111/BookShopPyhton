@@ -1,5 +1,3 @@
-#Student ID -> F213667
-
 import matplotlib.pyplot as pl
 import numpy as np
 def creatingGraph():
